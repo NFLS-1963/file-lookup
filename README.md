@@ -7,3 +7,5 @@
 A file checker which can find same files to avoid copying (especially in homework checking)
 
 [How to use it](https://github.com/NFLS-1963/file-lookup/wiki)
+
+> All the codes in this repo is written by HUGE [b6e0](https://www.luogu.com.cn/user/150522). I(NFLSCode) am only the one to put it here.
